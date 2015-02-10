@@ -1,0 +1,8 @@
+{ 
+   "shell-theme": {
+       "name"    : "simple-solid", 
+       "author"  : "AjiYakin", 
+       "version" : "1.0",
+       "type"    : "custom"
+   }
+}
