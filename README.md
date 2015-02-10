@@ -1,4 +1,4 @@
-# SimpleSolid Gnome Teheme
+# SimpleSolid Gnome Theme
 
 Gnome theme
 
